@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Arthur Scapin Pereira.
 - 👀 Estou ansioso para começar minha carreira como Dev Jr.
-- 🌱 Sou formado em Técnico em Informática no Instituto Federal Farroupilha e estou atualmente cursando a Graduação em Sistemas para Internet na Universidade Federal de Santa Maria.
+- 🌱 Sou formado no curso Técnico em Informática no Instituto Federal Farroupilha e estou atualmente cursando a Graduação em Sistemas para Internet na Universidade Federal de Santa Maria.
 - 📫 (https://www.linkedin.com/in/arthur-scapin-pereira-a130b0243/)
 
 <!---
